@@ -10,6 +10,7 @@ public class MainTestSwagger2
 {
     public static void main(String[] args)
     {
+        System.out.println("待调试");
         SpringApplication.run(MainTestSwagger2.class,args);
     }
 }
